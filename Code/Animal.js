@@ -7,3 +7,12 @@ class Dog {
     name;
     age;
     bread;
+}
+
+class Rabbit {
+    name;
+    age;
+    color;
+}
+
+
